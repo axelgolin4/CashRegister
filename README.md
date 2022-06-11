@@ -1,2 +1,4 @@
 # CashRegister
-freecodecamp exercise
+# Telephone Number Validator
+# Caesars Cipher
+Exercises done from freecodecamp
